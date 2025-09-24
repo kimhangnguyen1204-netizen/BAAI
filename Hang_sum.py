@@ -1,6 +1,6 @@
 #
 # Hang
-File: Hang_sum.py
+#File: Hang_sum.py
 # Short description of the task
 #
 
