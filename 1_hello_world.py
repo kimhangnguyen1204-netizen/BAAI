@@ -9,4 +9,3 @@
 
 # 3. Output
 print('Hello THU')
-print("I like Professor Kim's class alot")
