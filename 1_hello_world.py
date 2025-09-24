@@ -1,12 +1,12 @@
 #
 # Hang
 # Print Hello World!
-#
+# File: 0_template.py
 
 # 1. Input
 
 # 2. Process
 
 # 3. Output
-print('Hello Tunghai University')
+print('Hello THU')
 print("I like Professor Kim's class alot")
